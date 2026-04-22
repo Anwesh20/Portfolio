@@ -1,4 +1,4 @@
-# 🌐 Aurosampad Champatiray | Portfolio
+# 🌐 Anwesh Kumar Pattanik | Portfolio
 
 *Welcome to my personal portfolio! 
 Explore my projects, skills, experience, and know more about me as a developer.*
